@@ -1,1 +1,1 @@
-# All codes for our project.
+# All codes of our project.
